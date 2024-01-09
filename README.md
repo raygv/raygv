@@ -1,26 +1,10 @@
-### Hi there 👋
-
-<!--
-**raygv/raygv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 - Hi, I’m Ray
 - I’m interested in programming and applying this to machine learning.
-- I’m currently learning FILL_THIS_IN.
+- I’m currently learning about circuits and some machine learning in my VIP project.
 - I'm originally from the Philippines, but I've lived on O'ahu since I was 8 years old.
 - I'm a sophomore in electrical engineering.
 - I chose my major because I thought dealing with things that you can't see, like signals, was interesting.
 - A fun fact about me is:  I like running.
-- What do I want to learn from EE 205?  FILL_THIS_IN
+- What do I want to learn from EE 205?  I want to learn how to become a better programmer and how to learn faster.
 - A book or movie I'd recommend is:  Interstellar
